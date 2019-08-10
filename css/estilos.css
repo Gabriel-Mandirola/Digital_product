@@ -54,7 +54,7 @@ li a:hover{
 }
 
 .products{
-  background-image: url("curve.png");
+  background-image: url("../images/curve.png");
   height: 10px;
   background-size: cover;
   background-position: center top;
